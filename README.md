@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Israk Ahmed</h1>
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Israk Ahmed</h1>
+<h3 align="left">A passionate software developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXc3M25scnU3dnU2bHVma2M4YmJ5OTh3Z3k1aWdtY2lmNWF4b2tsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israkahmed&label=Profile%20views&color=0e75b6&style=flat" alt="israkahmed" /> </p>
