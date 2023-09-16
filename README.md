@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **MERN, Android**
 
-- 👨‍💻 All of my projects are available at [https://israkahmed.github.io/Portfolio/](https://israkahmed.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Here](https://israkahmed.github.io/Portfolio/)
 
 - 📫 How to reach me **israkahmed7@gmail.com**
 
-- 📄 Know about my experiences [https://israkahmed.github.io/Portfolio/](https://israkahmed.github.io/Portfolio/)
+- 📄 Know about my experiences [Here](https://israkahmed.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
