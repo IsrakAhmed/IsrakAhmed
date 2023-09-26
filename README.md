@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/israaaak" target="blank"><img src="https://img.shields.io/twitter/follow/israaaak?logo=twitter&style=for-the-badge" alt="israaaak" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Android**
+- 🌱 I’m currently learning **MERN, Android, OpenCV**
 
 - 👨‍💻 All of my projects are available at [Here](https://israkahmed.github.io/Portfolio/)
 
